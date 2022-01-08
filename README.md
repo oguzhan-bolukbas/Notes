@@ -1,2 +1,3 @@
-# Notes
-My personal notes
+## My personal notes
+
+#### [High Availability](high_availability.md)
